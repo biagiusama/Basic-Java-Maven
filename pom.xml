@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>ContohProjectMaven</groupId>
   <artifactId>ContohProject</artifactId>
-  <version>0.3.1-SNAPSHOT</version>
+  <version>0.3.7-SNAPSHOT</version>
 
 <dependencies>
   <dependency>
@@ -15,8 +15,7 @@
    <repository>
      <id>github</id>
      <name>GitHub OWNER Apache Maven Packages</name>
-     <url>https://maven.pkg.github.com/biagiusama/Basic-Java-Maven
-</url>
+     <url>https://maven.pkg.github.com/biagiusama/Basic-Java-Maven</url>
    </repository>
 </distributionManagement>
   <properties>
